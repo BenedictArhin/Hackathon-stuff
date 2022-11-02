@@ -1,0 +1,2 @@
+# Hackathon-stuff
+Amalitech Hackathon
